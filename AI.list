@@ -1,10 +1,10 @@
 # AI Services
-DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,openai
 DOMAIN-KEYWORD,openaiapi
 DOMAIN-KEYWORD,openaipublic
 DOMAIN-KEYWORD,microsoft
-DOMAIN-KEYWORD,bard.google.com
-DOMAIN-KEYWORD,bing.com
-DOMAIN-KEYWORD,adobe.com
+DOMAIN-KEYWORD,bard
+DOMAIN-KEYWORD,bing
+DOMAIN-KEYWORD,adobe
 DOMAIN-KEYWORD,discord
 DOMAIN-KEYWORD,imagetoprompt.com
