@@ -7,8 +7,9 @@ DOMAIN-KEYWORD,bard
 DOMAIN-KEYWORD,bing
 DOMAIN-KEYWORD,adobe
 DOMAIN-KEYWORD,discord
-DOMAIN-KEYWORD,imagetoprompt.com
+DOMAIN-SUFFIX,imagetoprompt.com
 DOMAIN-KEYWORD,slack
 DOMAIN-KEYWORD,poe
 DOMAIN-KEYWORD,anthropic
 DOMAIN-KEYWORD,civitai
+DOMAIN-SUFFIX,replicate.com
