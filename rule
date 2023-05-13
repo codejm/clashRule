@@ -11,6 +11,7 @@
 
 ;设置规则标志位
 ruleset=🤖 AI,https://raw.githubusercontent.com/codejm/clashRule/main/AI.list
+ruleset=🙏 AIAPI,https://raw.githubusercontent.com/codejm/clashRule/main/AIAPI.list
 ruleset=🚀 节点选择,https://raw.githubusercontent.com/chinnsenn/ClashCustomRule/master/proxies.list
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/chinnsenn/ClashCustomRule/master/direct.list
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list
@@ -63,6 +64,7 @@ custom_proxy_group=🎥 奈飞视频`select`.*
 custom_proxy_group=🎥 迪士尼加`select`.*
 custom_proxy_group=🎼 Spotify`select`.*
 custom_proxy_group=🤖 AI`select`.*`[]DIRECT
+custom_proxy_group=🙏 AIAPI`select`.*`[]DIRECT
 custom_proxy_group=📺 巴哈姆特`select`[]🇨🇳 台湾节点`[]🚀 节点选择`[]🚀 手动切换`[]DIRECT
 custom_proxy_group=🍑 DMMCOJP`select`[]🇯🇵 日本节点
 custom_proxy_group=📺 哔哩哔哩`select`[]🎯 全球直连`[]🇨🇳 台湾节点`[]🇭🇰 香港节点
