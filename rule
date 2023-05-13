@@ -10,8 +10,8 @@
 ;增强国外GFW：支持
 
 ;设置规则标志位
-ruleset=🤖 AI,https://raw.githubusercontent.com/codejm/clashRule/main/AI.list
 ruleset=🙏 AIAPI,https://raw.githubusercontent.com/codejm/clashRule/main/AIAPI.list
+ruleset=🤖 AI,https://raw.githubusercontent.com/codejm/clashRule/main/AI.list
 ruleset=🚀 节点选择,https://raw.githubusercontent.com/chinnsenn/ClashCustomRule/master/proxies.list
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/chinnsenn/ClashCustomRule/master/direct.list
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list
