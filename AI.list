@@ -1,8 +1,6 @@
 # AI Services
-DOMAIN-SUFFIX,www.openai.com
-DOMAIN-SUFFIX,chat.openai.com
-DOMAIN-SUFFIX,beta.openai.com
-DOMAIN-SUFFIX,auth.openai.com
+DOMAIN-KEYWORD,openai
+DOMAIN-KEYWORD,openaiapi
 DOMAIN-KEYWORD,openaipublic
 DOMAIN-KEYWORD,microsoft
 DOMAIN-KEYWORD,bard
